@@ -18,5 +18,3 @@ https://en.wikibooks.org/wiki/False_Friends_of_the_Slavist/Russian-Czech
 https://www.quora.com/What-are-benefits-of-learning-the-Russian-language
 
 https://www.youtube.com/watch?v=B_VccIbKwFI
-
-Netlify: https://gallant-brahmagupta-43449b.netlify.com
