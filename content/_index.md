@@ -1,27 +1,22 @@
 ---
-title: Home
+title: Ruština není lame
 ---
 
-# Hello World! (It works!)
+**Cílem mého projektu by bylo (ideálně) poukázat na to, že ruština je fakt zajímavý jazyk a že není špatné odprostit se od předsudků a dát tomuto jazyku šanci.**
 
-This are the contents of the Hugo start website front page.
+Cítím se dostatečně pověřená zhostit se takového projektu, protože sama jsem ruštinu nesnášela drtivou většinu svého života. Na její kouzlo (jop, to zní pateticky, ale je to tak :D) jsem si přišla sama až po gymplu.
 
-## Something to read: Sonnet LXVI.
+Ráda bych představila nejrůznější možné perspektivy, ze kterých se ruština může jevit celkem zajímavě. Samozřejmě nejvíc se nabízí srovnání slovní zásoby s tou naší, českou, protože to je fakt zábava sama o sobě. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+Dále se můžeme bavit obecně o tom, že ruština je pro nás, Čechy, dost jednoduchá a že když si najdeme ten správný způsob, co nám osobně vyhovuje, můžeme se snadno naučit světový jazyk.
 
+zdroje:
+(úplně nevím, co tu dávat, ale here you go)
+
+https://en.wikibooks.org/wiki/False_Friends_of_the_Slavist/Russian-Czech
+
+https://www.quora.com/What-are-benefits-of-learning-the-Russian-language
+
+https://www.youtube.com/watch?v=B_VccIbKwFI
+
+Netlify: https://gallant-brahmagupta-43449b.netlify.com
