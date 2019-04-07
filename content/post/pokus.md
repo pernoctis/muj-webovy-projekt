@@ -1,1 +1,0 @@
-Tohle je jenom pokus :)
