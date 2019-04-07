@@ -11,3 +11,4 @@ tags:
   <p>Your browser does not support iframes.</p>
 </iframe>
 
+Tuto stránku jsem vybrala, protože obsahuje super přehled slovíček, které zní velmi podobně v češtině i ruštině, ale v každém jazyce znamenají něco naprosto jiného a je třeba si na ně dávat fakt pozor.
