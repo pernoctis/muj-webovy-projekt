@@ -8,6 +8,8 @@ tags:
 
 This is just another post. And it illustrates a mighty functionality.
 
+![feng-suej](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/koncept.jpg "Rozvrzeni feng-suej")
+
 <!--more-->
 
 See how to include data inside your posts:
